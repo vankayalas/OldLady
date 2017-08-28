@@ -76,13 +76,13 @@ Your grade is calculated using the following rubric:
 
 | Functional Correctness                                                  |    Points     |
 |-------------------------------------------------------------------------|---------------|
-| Correctly define the `main()` method.                                 |   2 points    |
-| Correctly call the `printSong()` method in `main()`.               |   2 points    |
-| Correctly define the `printSong()` method with no parameter.         |   2 points    |
+| Correctly define the `main()` method.                                   |   2 points    |
+| Correctly call the `printSong()` method in `main()`.                    |   2 points    |
+| Correctly define the `printSong()` method with no parameter.            |   2 points    |
 | *Proper use of procedural decomposition.*                               |               |
-| - Full procedure decomposition, `printSong()` calls other methods    |   2 points    |
-| - Partial procedural decomposition, some work done in `printSong()`  |   1 point     |
-| - All work done in `printSong()`                                     |   0 points    |
+| - Full procedure decomposition, `printSong()` calls other methods       |   2 points    |
+| - Partial procedural decomposition, some work done in `printSong()`     |   1 point     |
+| - All work done in `printSong()`                                        |   0 points    |
 | Correct output                                                          |   2 points    |
 | **Total**                                                               | **10 points** |
 
