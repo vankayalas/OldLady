@@ -4,7 +4,12 @@ public class ThereWasAnOldLady {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Hello world!");	
+		printSong();
+	}
+	
+	public static void printSong()
+	{
+		// Your code goes here
 	}
 
 }
