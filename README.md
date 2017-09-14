@@ -15,7 +15,7 @@ When done, the song’s complete lyrics should be printed out (shown below):
 > that wiggled and wiggled and tickled inside her.  
 > She swallowed the spider to catch the fly.  
 > I don't know why she swallowed the fly.  
-> I guess she'll die. 
+> I guess she'll die.
 >
 > There was an old lady who swallowed a bird.  
 > How absurd to swallow a bird!  
@@ -37,7 +37,7 @@ When done, the song’s complete lyrics should be printed out (shown below):
 > There was an old lady who swallowed a dog.  
 > My what a hog, to swallow a dog!  
 > She swallowed the dog to catch the cat.  
-> She swallowed the cat, to catch the bird.  
+> She swallowed the cat to catch the bird.  
 > She swallowed the bird to catch the spider,  
 > that wiggled and wiggled and tickled inside her.  
 > She swallowed the spider to catch the fly.  
@@ -76,13 +76,13 @@ Your grade is calculated using the following rubric:
 
 | Functional Correctness                                                  |    Points     |
 |-------------------------------------------------------------------------|---------------|
-| Correctly define the `main()` method.                                   |   2 points    |
-| Correctly call the `printSong()` method in `main()`.                    |   2 points    |
-| Correctly define the `printSong()` method with no parameter.            |   2 points    |
+| Correctly define the `main()` method.                                 |   2 points    |
+| Correctly call the `printSong()` method in `main()`.               |   2 points    |
+| Correctly define the `printSong()` method with no parameter.         |   2 points    |
 | *Proper use of procedural decomposition.*                               |               |
-| - Full procedure decomposition, `printSong()` calls other methods       |   2 points    |
-| - Partial procedural decomposition, some work done in `printSong()`     |   1 point     |
-| - All work done in `printSong()`                                        |   0 points    |
+| - Full procedure decomposition, `printSong()` calls other methods    |   2 points    |
+| - Partial procedural decomposition, some work done in `printSong()`  |   1 point     |
+| - All work done in `printSong()`                                     |   0 points    |
 | Correct output                                                          |   2 points    |
 | **Total**                                                               | **10 points** |
 
