@@ -53,7 +53,7 @@ public class ThereWasAnOldLady {
 		why();
 	}
 	public static void verse3() {
-		System.out.println("There was an old lady who swallowed a bird sravya." );
+		System.out.println("There was an old lady who swallowed a bird." );
 		System.out.println("How absurd to swallow a bird!" );
 		reasonbird();
 		wiggles();
